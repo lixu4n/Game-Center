@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Game Center</string>
+    <string name="welcome">Welcome to Game Center</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+</resources>
